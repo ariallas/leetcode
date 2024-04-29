@@ -29,4 +29,6 @@ ignore = [
   "PLR0913",  # Too many arguments in function definition
 
   "INP",  # File {filename} is part of an implicit namespace package. Add an __init__.py
+  "E741",  # ambiguous-variable-name
+  "T20",  # print found
 ]
